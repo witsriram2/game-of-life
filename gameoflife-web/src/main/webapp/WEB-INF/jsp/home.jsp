@@ -4,7 +4,7 @@
 <%@page import="java.util.Properties" %>
 <html>
 <head>
-    <title>The Game Of Life: Bindhu</title>
+    <title>The Game Of Life - BindhuKR</title>
     <!--  TODO: Don't inline this -->
     <style type="text/css">
         h2 {
@@ -61,7 +61,7 @@
     </style>
 </head>
 <body>
-<h2>Welcome to Bindhu's Game Of Life!!!!</h2>
+<h2>Welcome to BindhuKR's Game Of Life!!!!</h2>
 
 <div class="intro">
     <p>This is a really cool web version of Conway's famous Game Of
